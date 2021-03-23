@@ -1,2 +1,2 @@
- alert("Bienvenido!!!");
-  document.write("<p>Hola Mundo</p>");
+ var nombre = prompt("Proporciona tu nombre");
+ document.write("<p>Bienvenido(a) "+nombre+"</p>");
